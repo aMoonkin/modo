@@ -1,0 +1,19 @@
+{
+  "name": "modo",
+  "version": "1.0.0",
+  "description": "monitor enviorment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xctrln/modo.git"
+  },
+  "author": "xctrln",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/xctrln/modo/issues"
+  },
+  "homepage": "https://github.com/xctrln/modo#readme"
+}
